@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmetello&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://drive.google.com/file/d/1oyyg3UlQbY7vD097PSvwKmteO1gySfR0/view?usp=sharing">
+  <img align="center" alt="Python" height="30" width="40" src="">
 </div>
   
   ##
