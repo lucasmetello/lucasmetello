@@ -5,8 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmetello&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://lh3.googleusercontent.com/d/1XjI9PC4XPbAqgqTlZwJk6gUv-n4wSLJE">
-  <img align="center" alt="Flask" height="30" width="40" src="https://lh3.googleusercontent.com/d/1N3PSTEHklx6i20TqZNCvTslE7PMY6PQk">
+  <img align="center" alt="Python" height="30" width="40" src="">
+  <img align="center" alt="Flask" height="30" width="40" src="">
 </div>
   
   ##
