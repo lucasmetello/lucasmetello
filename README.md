@@ -1,13 +1,12 @@
 ## Hi I'm Lucas.
 Learning: Python🐍
 
-<div align="left">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/lucasmetello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmetello&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmetello&layout=compact&langs_count=16&theme=merko"/>
 </div>
-  <divalign="right">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmetello&layout=compact&langs_count=16&theme=merko"/>
-  </div>
+
   <hr style="border:1px solid #90b302">
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
