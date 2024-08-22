@@ -1,5 +1,5 @@
 ## Hi I'm Lucas.
-My journey in programming began with modifying game scripts, which quickly turned into a passion. I hold a Bachelor's degree in Information Systems and currently work as a programming assistant at the Cancer Foundation. I am focused on studying Python and improving my skills as a programmer.
+My journey in programming began with modifying game scripts, which quickly turned into a passion. I hold a Bachelor's degree in Information Systems and currently work as a programming assistant at the Brazil Cancer Foundation. I am focused on studying Python and improving my skills as a programmer.
 
 <div align="left">
   <a href="https://github.com/lucasmetello">
