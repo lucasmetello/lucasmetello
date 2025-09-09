@@ -1,5 +1,5 @@
 ## Hi I'm Lucas.
-My journey in programming began with modifying game scripts, which quickly turned into a passion. I hold a Bachelor's degree in Information Systems and currently work as a programming assistant at the Brazilian Cancer Foundation. I am focused on studying Python and improving my skills as a programmer.
+Just writing code with no AI assistants — like a maniac.
 
 <div align="left">
   <a href="https://github.com/lucasmetello">
@@ -11,7 +11,8 @@ My journey in programming began with modifying game scripts, which quickly turne
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-plain.svg">
+  <img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rails/rails-plain.svg">
   </div>
   <br>
 <div> 
