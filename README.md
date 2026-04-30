@@ -27,7 +27,7 @@ I'm currently building my foundation in backend and full-stack development throu
 
 ## 🛠️ Tech Stack
 
-<div display:flex">
+<div style="display: inline-block;">
   <img alt="Ruby" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img alt="Rails" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
   <img alt="RSpec" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rspec/rspec-original.svg">
