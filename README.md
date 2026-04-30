@@ -19,7 +19,7 @@ I'm currently building my foundation in backend and full-stack development throu
 
 ## 🔭 What I'm Building Right Now
 
-- 🛒 **E-commerce app** — a hands-on Rails project covering the full lifecycle (auth, cart, orders, payments)
+- 🧙‍♂️ **RPG Master Support Platform** — a Rails application designed to assist RPG game masters with campaign management, session planning, character tracking, and storytelling tools
 - 📐 Deepening my knowledge of **MVC patterns**, RESTful routing, and Active Record associations
 - 🗄️ Modeling relational databases with **PostgreSQL** and writing efficient queries
 
