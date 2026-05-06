@@ -3,7 +3,6 @@
 # Lucas Metello
 ### Backend & Full-Stack Developer in the making · Ruby on Rails enthusiast
 
-*"Simplicity is the soul of efficiency."*
 
 </div>
 
