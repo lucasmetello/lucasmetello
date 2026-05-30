@@ -39,15 +39,6 @@ I'm currently building my foundation in backend and full-stack development throu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasmetello&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmetello&layout=compact&theme=merko" alt="Top Languages"/>
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="left">
